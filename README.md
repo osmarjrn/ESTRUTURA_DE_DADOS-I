@@ -1,2 +1,2 @@
-# ESTRUTURA-DE-DADOS-I
+# ESTRUTURA_DE_DADOS-I
 Trabalhos práticos desenvolvidos em C.
